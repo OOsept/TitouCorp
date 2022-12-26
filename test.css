@@ -1,0 +1,58 @@
+body
+{
+    /*
+    background-image: url("https://s2.qwant.com/thumbr/0x0/c/8/1681e68b940f811b055affa0548ef31559e825645eb467ec8b70cf7cbe68e6/gif8.gif?u=https%3A%2F%2F1.bp.blogspot.com%2F-PPIBXJu9ZgE%2FV74ioTi21xI%2FAAAAAAAAAR8%2FGRifLXNmeX4zlhktpVVyOyWUkRD7_06agCLcB%2Fs1600%2Fgif8.gif&q=0&b=1&p=0&a=1");
+    background-attachment: fixed;
+    */
+    background-color: black;
+}
+footer
+{
+    background-color: black;
+}
+.titre
+{
+    color: white;
+    font-size: 5em;
+    border: 10px red double;
+    box-shadow: 6px 6px 0px rgb(151, 144, 133);
+    text-shadow: 2px 2px 4px rgb(151, 144, 133);
+    width: 912px;
+}
+.titrea
+{
+    color: white;
+    font-size: 34sem;
+    border: 10px red double;
+    box-shadow: 6px 6px 0px rgb(151, 144, 133);
+    text-shadow: 2px 2px 4px rgb(151, 144, 133);
+    width: 85px;
+}
+p
+{
+    color: white;
+    font-size: 1em;
+}
+.important
+{
+    color: red;
+}
+a
+{
+    color: blue;
+    font-size: 1em;
+}
+.alert
+{
+  padding: 15px;
+  border: 1px solid #d6e9c6;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #dff0d8;
+.legendes
+{
+    color: blue;
+    font-size: 1em;
+    background-color: black;
+}
+
