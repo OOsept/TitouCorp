@@ -1,3 +1,3 @@
 # TitouCorp
 
-Ce site eest juste un prejet pour m'amuser.
+Ce site est juste un prejet pour m'amuser.
