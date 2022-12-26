@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <!--
+    <script>
+        window.open('popup','popupad','width=200,height=150')
+    </script>
+    -->
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="test.css" />
+        <title>Théories du complot</title>
+        <link rel="icon" type="image/png" sizes="16x16" href="logo.webp">
+        <!--<script src="script.js"></script>-->
+
+    </head>
+    <header>
+        <p class=titre id="iluminati">Théories du complot</p>
+    </header>
+    <nav>
+    <body>
+    <audio src="iluminati.mp3" loop autoplay preload=auto></audio>
+        <p>
+        <button id="test" onClick="edit()"><img src="fond.webp" alt="image" title="Le logo des Illuminatis" />
+            </button>
+            <p> 
+                Vous trouverez ici les preuves que les <b><span class="important">Iluminatis</span></b> exsistent
+            </p>
+            <br>
+            <video width="320" height="240" controls poster=datageule.webp>
+                <source src="datageule.mp4" type=video/mp4>
+            </video>
+            <br />
+            <p>
+                <a href = "https://www.youtube.com/watch?v=Z9uDmY-aj64" class = legendes>
+                    Tout, tout, tout, vous saurez tout sur le complot - #DATAGUEULE 50
+                </a>
+            </p>
+            <video width="320" height="240" controls poster=ettouslemondesenfout.webp>
+                <source src="ettouslemondesenfout.mp4" type=video/mp4>
+            </video>
+            <p>
+                <a href = "https://www.youtube.com/watch?v=FXhlZN5J6hk" class = legendes>
+                    Et tout le monde s'en fout #67 - La théorie du complot
+                </a>
+            </p>
+            <br>
+            <video width="320" height="240" controls poster=poster.png>
+                <source src="tree.mp4" type=video/mp4>
+            </video>
+            <br />
+            <p>
+                <a href = "https://www.youtube.com/watch?v=v9k3UKhAhnc" class = legendes>
+                    The music of illuminatis
+                </a>
+            </p>
+            <br />
+            <br />
+            <p>
+                Et plein d'autre site le prouve :
+                <ul>
+                    <a href = "https://fr.wikipedia.org/wiki/Illuminati" class = lien><li>Wikipedia - Illuminatis</li></a>
+                    <a href = "https://fr.wikipedia.org/wiki/Complot_des_Illuminati" class = lien><li>Wikipedia - Complot des illuminatis</li></a>
+                </ul>
+            </p>
+        </p>
+        <script src="script.js" type="text/javascript"></script>
+    </body>
+    <br />
+    <footer>
+        <p>
+            <a href="mailto:titouan.petit-frulio@laposte.net" title="Me contacter">Me contacter</a><br />
+            <a href="#iluminati" title="Haut de page">Haut de page</a>
+            
+        </p>
+    </footer>
+</html>
